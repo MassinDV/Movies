@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=NO,FORCED=NO,URI="https://raw.githubusercontent.com/MassinDV/Movies/master/0.m3u8",LANGUAGE="en"
+#EXT-X-STREAM-INF:BANDWIDTH=1118592,CODECS="mp4a.40.2, avc1.64001f",RESOLUTION=640x360,SUBTITLES="subs"
+https://srv81.filmmodu.xyz/tt1653665/720p.tr.m3u8
