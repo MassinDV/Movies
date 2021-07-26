@@ -5,6 +5,8 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:8.884467,
+https://winges4kiptv.com/apps/ads1.ts
+#EXT-X-DISCONTINUITY
 https://srv48.filmmodu.xyz/tt2948356/720p.en1.ts?mp4
 #EXTINF:6.924044,
 https://srv48.filmmodu.xyz/tt2948356/720p.en2.ts?mp4
